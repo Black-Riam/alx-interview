@@ -40,7 +40,7 @@ Given a pile of coins of different values, determine the fewest number of coins 
 carrie@ubuntu:~/0x08-making_change$ cat 0-main.py
 #!/usr/bin/python3
 """
-Main file for testing
+Main file for testing in word
 """
 
 makeChange = __import__('0-making_change').makeChange
